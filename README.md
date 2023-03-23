@@ -3,14 +3,14 @@
 <h1>✯ Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴀᴍɪᴛ ✯ </h1>
 <h3 align="center">ɴᴏᴏʙ ғʀᴏᴍ  ʙɪʀᴛʜ ᴛʀʏɪɴɢ ᴛᴏ ʟᴇᴀʀɴ sᴏᴍᴇᴛʜɪɴɢ ғʀᴏᴍ ᴘɪʀᴏ ᴘʟᴀʏᴇʀ</h3>
 <p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
+    <b>ᴠɪsɪᴛᴏʀs ᴀɴᴅ ʀᴇᴘᴏ ᴠɪᴇᴡs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/royalboycoder/count.svg" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royalboycoder&label=ᴘʀᴏғɪʟᴇ%20ᴠɪᴇᴡs&color=0e75b6&style=flat" alt="itz-mst-boy" /> </p>
 
 
-- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [![ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=ᴛᴇʟᴇɢʀᴀᴍʙᴏᴛʟɪsᴛs)](https://t.me/moi_bot_lists/4) 
+- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [![ 𝚂ᴘᴏᴛɪғʏ ᴍᴜsɪᴄ ʙᴏᴛ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ)](https://t.me/royalmusic31bot) 
 <br>
 
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ  ʟᴇᴀʀɴɪɴɢ  **ʜᴛᴍʟ , ᴘʏᴛʜᴏɴ .**

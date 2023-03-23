@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royalboycoder&label=ᴘʀᴏғɪʟᴇ%20ᴠɪᴇᴡs&color=0e75b6&style=flat" alt="itz-mst-boy" /> </p>
 
 
-- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [![ 𝚂ᴘᴏᴛɪғʏ ᴍᴜsɪᴄ ʙᴏᴛ](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ)](https://t.me/royalmusic31bot) 
+- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [𝚂ᴘᴏᴛɪғʏ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/royalmusic31bot) 
 <br>
 
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ  ʟᴇᴀʀɴɪɴɢ  **ʜᴛᴍʟ , ᴘʏᴛʜᴏɴ .**

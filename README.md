@@ -7,7 +7,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/royalboycoder/count.svg" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=royalboycoder&label=ᴘʀᴏғɪʟᴇ%20ᴠɪᴇᴡs&color=0e75b6&style=flat" alt="itz-mst-boy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=royalboycoder&label=ᴘʀᴏғɪʟᴇ%20ᴠɪᴇᴡs&color=0e75b6&style=flat" alt="royal_boy_amit" /> </p>
 
 
 - 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [𝚂ᴘᴏᴛɪғʏ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/royalmusic31bot) 
@@ -16,7 +16,7 @@
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ  ʟᴇᴀʀɴɪɴɢ  **ʜᴛᴍʟ , ᴘʏᴛʜᴏɴ .**
 
 <br>**
-- 🥀 ɪᴛs ᴍᴇ 🤑 **[❛-𝐌𝐫'᭄∀ღḯ⊥【😇】𝐊ɩŋʛ'𝐎ʆ-𝐓ʛ](https://t.me/royal_boy_coder)**
+- 🥀 ɪᴛs ᴍᴇ 🤑 **[𝐓ɦє_𝐑єαℓ_𝐒ƭαɾ'™](https://t.me/royal_boy_coder)**
 
 - ⚡ ғᴜɴ  ғᴀᴄᴛ  **ɪ ғᴏɴᴅ ᴏғ ᴋᴀɴɢɪɴɢ ʀᴇᴘᴏ **
 
@@ -26,7 +26,7 @@
 <p align="center"><a href="https://github.com/royalboycoder"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royalboycoder&theme=radical&layout=compact"></a></p>
 
 
- [![𝗖𝗛𝗔𝗡𝗡𝗘𝗟](https://img.shields.io/badge/Channel-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/royalkifeelings12) 
+ [![𝗖𝗛𝗔𝗡𝗡𝗘𝗟](https://img.shields.io/badge/Channel-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/royalkifeelings_12) 
 
 [![𝗦𝗨𝗣𝗣𝗢𝗥𝗧](https://img.shields.io/badge/Support-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/royalkifeelings)
 

@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royalboycoder&label=ᴘʀᴏғɪʟᴇ%20ᴠɪᴇᴡs&color=0e75b6&style=flat" alt="royal_boy_amit" /> </p>
 
 
-- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [𝚂ᴘᴏᴛɪғʏ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/royalmusic31bot) 
+- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [𝚂ᴘᴏᴛɪғʏ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/spotif_ymusic31_bot) 
 <br>
 
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ  ʟᴇᴀʀɴɪɴɢ  **ʜᴛᴍʟ , ᴘʏᴛʜᴏɴ .**

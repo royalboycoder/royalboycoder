@@ -10,13 +10,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royalboycoder&label=ᴘʀᴏғɪʟᴇ%20ᴠɪᴇᴡs&color=0e75b6&style=flat" alt="royal_boy_amit" /> </p>
 
 
-- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [𝚂ᴘᴏᴛɪғʏ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/spotif_ymusic31_bot) 
+- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [𝚂ᴘᴏᴛɪғʏ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/spotify_music31_bot) 
 <br>
 
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ  ʟᴇᴀʀɴɪɴɢ  **ʜᴛᴍʟ , ᴘʏᴛʜᴏɴ .**
 
 <br>**
-- 🥀 ɪᴛs ᴍᴇ 🤑 **[𝐓ɦє_𝐑єαℓ_𝐒ƭαɾ'™](https://t.me/royal_boy_coder)**
+- 🥀 ɪᴛs ᴍᴇ 🤑 **[𝐓ɦє_𝐑єαℓ_𝐒ƭαɾ'™](https://t.me/royal_boy_amit)**
 
 - ⚡ ғᴜɴ  ғᴀᴄᴛ  **ɪ ғᴏɴᴅ ᴏғ ᴋᴀɴɢɪɴɢ ʀᴇᴘᴏ **
 

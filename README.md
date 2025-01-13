@@ -7,16 +7,16 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/royalboycoder/count.svg" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=royalboycoder&label=ᴘʀᴏғɪʟᴇ%20ᴠɪᴇᴡs&color=0e75b6&style=flat" alt="royal_boy_amit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=royalboycoder&label=ᴘʀᴏғɪʟᴇ%20ᴠɪᴇᴡs&color=0e75b6&style=flat" alt="its_realstar" /> </p>
 
 
-- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [𝚂ᴘᴏᴛɪғʏ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/spotify_music31_bot) 
+- 🔭 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ [𝚂ᴘᴏᴛɪғʏ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/The_Spotify_Music_bot) 
 <br>
 
 - 🌱 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ  ʟᴇᴀʀɴɪɴɢ  **ʜᴛᴍʟ , ᴘʏᴛʜᴏɴ .**
 
 <br>**
-- 🥀 ɪᴛs ᴍᴇ 🤑 **[𝐓ɦє_𝐑єαℓ_𝐒ƭαɾ'™](https://t.me/royal_boy_amit)**
+- 🥀 ɪᴛs ᴍᴇ 🤑 **[𝐓ɦє_𝐑єαℓ_𝐒ƭαɾ'™](https://t.me/its_realstar)**
 
 - ⚡ ғᴜɴ  ғᴀᴄᴛ  **ɪ ғᴏɴᴅ ᴏғ ᴋᴀɴɢɪɴɢ ʀᴇᴘᴏ **
 
